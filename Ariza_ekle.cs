@@ -80,7 +80,7 @@ namespace Asansor_Ariza_Bakim
             }
             catch (Exception) {
 
-                MessageBox.Show("ariza ekleme başarısız");
+                MessageBox.Show("ariza ekleme başarısız.");
             }
            
         }
