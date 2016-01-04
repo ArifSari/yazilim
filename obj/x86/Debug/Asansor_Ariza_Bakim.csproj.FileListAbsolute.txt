@@ -1,0 +1,46 @@
+C:\Users\huseyin.bektas\AppData\Local\Temporary Projects\Asansor_Ariza_Bakim\bin\Debug\Asansor_Ariza_Bakim.exe
+C:\Users\huseyin.bektas\AppData\Local\Temporary Projects\Asansor_Ariza_Bakim\bin\Debug\Asansor_Ariza_Bakim.pdb
+C:\Users\huseyin.bektas\AppData\Local\Temporary Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Form1.resources
+C:\Users\huseyin.bektas\AppData\Local\Temporary Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Properties.Resources.resources
+C:\Users\huseyin.bektas\AppData\Local\Temporary Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.csproj.GenerateResource.Cache
+C:\Users\huseyin.bektas\AppData\Local\Temporary Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.exe
+C:\Users\huseyin.bektas\AppData\Local\Temporary Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.pdb
+C:\Users\huseyin.bektas\AppData\Local\Temporary Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Form2.resources
+C:\Users\huseyin.bektas\documents\visual studio 2010\Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.exe
+C:\Users\huseyin.bektas\documents\visual studio 2010\Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.pdb
+C:\Users\huseyin.bektas\documents\visual studio 2010\Projects\Asansor_Ariza_Bakim\bin\Debug\Asansor_Ariza_Bakim.exe
+C:\Users\huseyin.bektas\documents\visual studio 2010\Projects\Asansor_Ariza_Bakim\bin\Debug\Asansor_Ariza_Bakim.pdb
+C:\Users\huseyin.bektas\documents\visual studio 2010\Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Form1.resources
+C:\Users\huseyin.bektas\documents\visual studio 2010\Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Form2.resources
+C:\Users\huseyin.bektas\documents\visual studio 2010\Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Properties.Resources.resources
+C:\Users\huseyin.bektas\documents\visual studio 2010\Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.csproj.GenerateResource.Cache
+C:\Users\huseyin.bektas\documents\visual studio 2010\Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Tesis_Ekle.resources
+C:\Users\huseyin.bektas\documents\visual studio 2010\Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.csprojResolveAssemblyReference.cache
+C:\Users\huseyin.bektas\documents\visual studio 2010\Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Bakım_Ekle_Guncelle.resources
+C:\Users\huseyin.bektas\documents\visual studio 2010\Projects\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Personel_Eklee.resources
+C:\Users\zeki\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.exe
+C:\Users\zeki\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.pdb
+C:\Users\zeki\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.csprojResolveAssemblyReference.cache
+C:\Users\zeki\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Bakım_Ekle_Guncelle.resources
+C:\Users\zeki\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Form1.resources
+C:\Users\zeki\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Form2.resources
+C:\Users\zeki\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Personel_Eklee.resources
+C:\Users\zeki\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Properties.Resources.resources
+C:\Users\zeki\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Tesis_Ekle.resources
+C:\Users\zeki\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.csproj.GenerateResource.Cache
+C:\Users\zeki\Desktop\Asansor_Ariza_Bakim\bin\Debug\Asansor_Ariza_Bakim.exe
+C:\Users\zeki\Desktop\Asansor_Ariza_Bakim\bin\Debug\Asansor_Ariza_Bakim.pdb
+C:\Users\zeki\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Ariza_ekle.resources
+C:\Users\arif\Desktop\asansör_arıza_bakım\Asansor_Ariza_Bakim_Masaustu\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.exe
+C:\Users\arif\Desktop\asansör_arıza_bakım\Asansor_Ariza_Bakim_Masaustu\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.pdb
+C:\Users\arif\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.exe
+C:\Users\arif\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.pdb
+C:\Users\arif\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.csprojResolveAssemblyReference.cache
+C:\Users\arif\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Ariza_ekle.resources
+C:\Users\arif\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Bakım_Ekle_Guncelle.resources
+C:\Users\arif\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Form1.resources
+C:\Users\arif\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Form2.resources
+C:\Users\arif\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Personel_Eklee.resources
+C:\Users\arif\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Properties.Resources.resources
+C:\Users\arif\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.Tesis_Ekle.resources
+C:\Users\arif\Desktop\Asansor_Ariza_Bakim\obj\x86\Debug\Asansor_Ariza_Bakim.csproj.GenerateResource.Cache
